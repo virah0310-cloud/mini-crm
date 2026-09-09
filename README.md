@@ -2,7 +2,7 @@
 
 A minimal lead-calling dashboard: upload an Excel file of leads, agents log in
 with a name + PIN, see only their assigned leads, and mark each one New /
-Called / Qualified / Not Qualified with a notes field..
+Called / Qualified / Not Qualified with a notes field.
 
 ## Environment variables (set these in Vercel → Project → Settings → Environment Variables)
 
